@@ -203,6 +203,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vextorium](https://vextorium.com) `https://api.vextorium.com/mcp`
   [![Vextorium MCP connector](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium/badges/score.svg)](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium)
   🔓 - 509 pay-per-call data tools: on-chain (30+ chains), DeFi, markets, economic stats, compliance; USDC via x402.
+- [Wanjige](https://qianjige.app.workbuddy.host) `https://qianjige.app.workbuddy.host/mcp`
+  [![Wanjige MCP connector](https://glama.ai/mcp/connectors/io.github.chenwengui23/wanjige/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chenwengui23/wanjige)
+  🔑 - One MCP server exposing 15,552 callable tools: web search, arXiv/PubMed/OpenAlex/World Bank research, China weather/POI/driving routes, A-share & Hong Kong & US stock quotes, 930 FX pairs, PDF/Word/Excel parsing, Chinese TTS, image & video generation and deterministic calculators. Free sign-up grants 1,000 credits; no key needed for the limited daily trial.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
